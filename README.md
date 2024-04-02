@@ -35,6 +35,8 @@ This study emphasizes the critical nature of the impacts of an Enhanced Database
 - Discusses the importance of efficient data management and reliable data assurance facilitated by a robust DBMS.
 - Highlights the role of DBMS in streamlining data administration, optimizing decision-making, ensuring data privacy and regulatory compliance, and facilitating scalability and integration with emerging technologies.
 - Includes Use Case Diagram, Flow Chart Diagram, and visual representations to illustrate DBMS functionalities.
+- ![Flowchart](/images/Flowchart.png)
+*Flowchart*
 
 ## Implementation
 
@@ -54,6 +56,7 @@ This study emphasizes the critical nature of the impacts of an Enhanced Database
 - Highlights password hashing, salting, and peppering techniques for enhancing security.
 - Discusses authentication process and security measures to prevent unauthorized access.
 
----
+### Images
 
-This README provides an overview of the project, including its abstract, literature review, design methodology, and implementation details. You can further expand each section with more details, code examples, and diagrams as needed.
+![Authentication](/images/Authentication.png)
+*Authentication*
