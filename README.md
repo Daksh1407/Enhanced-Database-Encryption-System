@@ -4,6 +4,9 @@ Based on the provided information, here's a structured README for your project:
 
 # Enhanced Database Encryption System
 
+## Paper Publication
+## [explore.ieee.org/document/10486360](https://ieeexplore.ieee.org/document/10486360)
+
 ## Abstract
 
 This study emphasizes the critical nature of the impacts of an Enhanced Database Encryption System within contemporary enterprises. It focuses on goals such as data consolidation, preservation of integrity, and enhanced security controls. The paper underlines the importance of Database Management Systems (DBMS) in streamlining operational domains such as customer relationship management, supply chain optimization, and advanced analytics. Furthermore, it highlights the significance of addressing data privacy issues, regulatory compliance, and establishing strong data governance frameworks.
